@@ -1,58 +1,49 @@
 👋 Bonjour, je suis Thomas Ravenel
-
-🎓 Diplômé d'un BUT en Métiers du Multimédia et de l'Internet (spécialité développement web).
-
-
-📚 Actuellement en M1 en MBA Développeur Full-Stack à MyDigitalSchool à Caen.
-
+💼 Développeur Full-Stack freelance, spécialisé en développement web et mobile.
+🎯 J’aide les entreprises à créer des solutions digitales performantes et sur-mesure.
 
 🚀 À propos de moi
+Je suis développeur Full-Stack indépendant, passionné par la création de produits web efficaces, intuitifs et bien pensés. Mon expérience couvre aussi bien le front-end que le back-end, avec une forte affinité pour les projets alliant technique et créativité.
 
+Au fil des projets (clients, stages, missions freelance), j’ai appris à allier rigueur, autonomie et communication pour livrer des solutions fiables et évolutives.
 
-Je suis un développeur Full-Stack en formation avec un fort intérêt pour le développement web et mobile. Ayant déjà obtenu mon BUT MMI, je poursuis actuellement mon parcours en MBA pour approfondir mes compétences techniques et m'orienter vers des projets innovants et créatifs.
-
-Mes diverses expériences professionnelles, notamment mes stages et projets académiques, m'ont permis d'acquérir une solide expertise en back-end et front-end, ainsi qu'une maîtrise des CMS tels que PrestaShop.
-
-
-💼 Projets réalisés
-
-
-🎶 Plateforme de vente musicale (Projet en groupe)
-
+💼 Projets récents
+🎶 Plateforme de vente musicale
 Rôle : Développeur Back-end
 
-Technologies : Gestion de base de données, comptes utilisateurs, formulaires interactifs
+Tech : PHP, MySQL, gestion utilisateurs, formulaires sécurisés
 
-Description : Conception d'une plateforme pour acheter de la musique avec des fonctionnalités de personnalisation des utilisateurs.
-
+Objectif : Créer une plateforme e-commerce pour la vente de musique personnalisée.
 
 🌾 Application mobile pour agriculteurs
+Rôle : Développeur Full-Stack
 
-Technologies : Symfony (Back-end), VueJS (Front-end)
+Tech : Symfony (API), VueJS (Front)
 
-Description : Développement d'une solution mobile complète pour la gestion d'exploitation agricole, avec planification, gestion du matériel et suivi météorologique.
+Objectif : Gérer l'exploitation agricole : matériel, météo, planning, etc.
 
+🍽 Site vitrine pour un restaurant
+Tech : HTML, CSS, JS, design responsive, SEO, intégration d’APIs
 
-🍽 Site web pour restaurant (Stage)
+Objectif : Site web complet optimisé pour le référencement local et la visibilité en ligne.
 
-
-Technologies : HTML, CSS, JavaScript, Design responsive, SEO, APIs Google & Facebook
-
-Description : Création d’un site web responsive de A à Z, avec intégration d'APIs et optimisation pour le référencement sur Google.
-
-🛒 Personnalisation de PrestaShop (Stage)
-
-
+🛒 Personnalisation avancée de PrestaShop
 Rôle : Développeur CMS
 
-Technologies : PrestaShop, intégration API, personnalisation avancée
+Tech : PrestaShop, APIs tierces
 
-Description : Personnalisation complète de PrestaShop pour répondre aux besoins spécifiques de l'entreprise et améliorer l'expérience utilisateur.
+Objectif : Adapter et optimiser PrestaShop selon les besoins spécifiques du client.
 
 🛠 Compétences techniques
 Back-end : PHP, Symfony, MySQL
+
 Front-end : VueJS, JavaScript, HTML/CSS
+
 CMS : PrestaShop
-Outils : Git, APIs (Google, Facebook)
-🎯 Objectifs
-Je cherche à développer davantage mes compétences en tant que développeur Full-Stack au sein d’une entreprise innovante. Je suis passionné par la création de solutions techniques efficaces et l'optimisation de l'expérience utilisateur.
+
+Outils : Git, APIs (Google, Facebook), Postman
+
+🤝 Disponible pour vos projets
+Je travaille avec des entreprises, agences et porteurs de projet qui veulent un site web solide, rapide, bien conçu — et surtout pensé pour l'utilisateur.
+
+📩 Vous avez une idée ou un projet ? Contactez-moi, je suis toujours partant pour un bon défi !
